@@ -1,0 +1,1 @@
+# discourse-lightbox-zoom
