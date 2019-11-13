@@ -1,0 +1,6 @@
+{
+  "name": "Zoom Lightboxed Images",
+  "about_url": "https://meta.discourse.org",
+  "license_url": "https://github.com/wishspinner/discourse-lightbox-zoom/LICENSE",
+  "component": true
+}
